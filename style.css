@@ -107,3 +107,23 @@ a {
     padding-top: 10px;
     text-align: center;
 }
+
+.main-quote {
+    background-color: #E5E7EB;
+    padding: 100px 450px;
+    flex-direction: column;
+}
+
+.quote-text {
+    margin: 0;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    text-align: justify;
+}
+
+.quote-author {
+    margin: 0;
+    margin-left: auto;
+}
