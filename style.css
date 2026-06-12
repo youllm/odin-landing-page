@@ -127,3 +127,11 @@ a {
     margin: 0;
     margin-left: auto;
 }
+
+.footer-content {
+    background-color: #1F2937;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
