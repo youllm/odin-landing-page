@@ -135,3 +135,32 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+.main-sign-up {
+    padding: 100px 300px;
+}
+
+.sign-up-box {
+    background-color: #3882F6;
+    padding: 50px 100px;
+    width: stretch;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sign-up-slogan {
+    margin: 0;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.main-sign-up-button {
+    padding: 10px 40px;
+    background-color: #3882F6;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
