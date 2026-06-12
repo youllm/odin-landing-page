@@ -70,3 +70,40 @@ a {
     border-radius: 10px;
     cursor: pointer;
 }
+
+.main-content-info {
+    padding: 0 300px;
+    justify-content: center;
+}
+
+.main-content-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.main-content-placeholder {
+    border: 5px solid #3882F6;
+    border-radius: 20px;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    box-sizing: border-box;
+}
+
+.main-content {
+    padding: 0 400px 100px;
+    justify-content: center;
+    gap: 50px;
+}
+
+.main-content-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.main-placeholder-text {
+    padding-top: 10px;
+    text-align: center;
+}
